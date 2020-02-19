@@ -24,7 +24,7 @@ const k_muppet = {
   k_job: 'Host of The Muppet Show',
   k_partner: 'Miss Piggy'
 };
-const [moo, neigh, baa, oink, cluck] = 'cow horse sheep pig chicken'.split(" ")
+const [f, f, baa, f, cluck] = 'cow horse sheep pig chicken'.split(" ")
 
 const [Bessie, , Dolly, Babe, Little] = 'cow horse sheep pig chicken'.split(" ")
 
