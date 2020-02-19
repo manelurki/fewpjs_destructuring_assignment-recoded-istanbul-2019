@@ -36,5 +36,9 @@ const [red, orange, yellow, green, blue, indigo, violet] = colors
 
 const { name, color, song, job, partner} = muppet
 
+const [r, o, y, g, b, , v] = colors
+
+ 
+const [ , , , , , indg, ] = colors
 const { song_2, song_4} = k_muppet.k_album.the_muppet_movie
 const { k_color, k_job, k_partner } = k_muppet
